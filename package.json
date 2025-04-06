@@ -1,4 +1,16 @@
 {
+  "name": "price-appraisal-ai",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Telegram bot that allows you to get an informed price appraisal based on existing internet data. Take a picture, send it to the bot, and get an appraisal with the thought process and contextual information back.",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "@langchain/community": "^0.3.39",
     "@langchain/core": "^0.3.43",
