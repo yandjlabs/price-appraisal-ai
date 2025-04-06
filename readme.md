@@ -3,7 +3,7 @@
 A Telegram bot that allows you to get an informed price appraisal based on existing internet data. Take a picture, send it to the bot, and get an appraisal with the thought process and contextual information back.
 
 # todo-list:
-- [ ] Set up license and readme fields
+- [x] Set up license and readme fields
 - [ ] Generate price appraisal text message using AI
 - - [ ] Set up LangChain with DeepInfra API keys
 - - [ ] Use LangChain to feed AI (hosted on DeepInfra) image url & get response back
