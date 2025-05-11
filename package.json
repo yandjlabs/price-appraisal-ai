@@ -11,12 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@langchain/community": "^0.3.39",
-    "@langchain/core": "^0.3.43",
-    "@langchain/groq": "^0.2.2",
     "dotenv": "^16.4.7",
     "groq-sdk": "^0.21.0",
-    "i": "^0.3.7",
     "npm": "^11.3.0"
   }
 }
