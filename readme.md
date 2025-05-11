@@ -5,8 +5,8 @@ A Telegram bot that allows you to get an informed price appraisal based on exist
 # todo-list:
 - [x] Set up license and readme fields
 - [ ] Generate price appraisal text message using AI
-- - [ ] Set up LangChain with DeepInfra API keys
-- - [ ] Use LangChain to feed AI (hosted on DeepInfra) image url & get response back
+- - [ ] Set up LangChain with Groq API keys
+- - [ ] Use LangChain to feed AI (hosted on Groq) image url & get response back
 - - [ ] Structure response w/ appraisal & thought process using LangChain
 - - [ ] Format response data into text message
 - - [ ] Organize code into function Telegram bot code can use
